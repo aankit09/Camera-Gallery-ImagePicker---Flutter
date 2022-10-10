@@ -11,3 +11,5 @@ FOR IOS
   <string>To choose user profile picture</string>
   <key>NSMicrophoneUsageDescription</key>
   <string>Used to capture audio for image picker</string>
+
+---------------------------------------------------------------------------------------------------------------------------------------
